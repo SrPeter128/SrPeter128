@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthias Peter aka @SrPeter128
 - 👀 I’m interested in applied bioinformatics 
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on workflow pipelines in bioinformatics 
 - 📫 How to reach me: mapeter@students.uni-mainz.de
 
