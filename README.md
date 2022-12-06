@@ -2,7 +2,7 @@
 - 👀 I’m interested in applied bioinformatics 
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on workflow pipelines in bioinformatics 
-- 📫 How to reach me: mapeter@stundets.uni-mainz.de
+- 📫 How to reach me: mapeter@students.uni-mainz.de
 
 <!---
 SrPeter128/SrPeter128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
