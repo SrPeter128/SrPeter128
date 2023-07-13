@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthias Peter aka @SrPeter128
 - 👀 I’m interested in applied bioinformatics 
-- 🌱 I’m currently learning machine and deep learning
+- 🌱 I’m currently learning 3D protein structure modeling with deeplearning
 - 💞️ I’m looking to collaborate on workflow pipelines in bioinformatics and deep learning in protein structure modeling
 - 📫 How to reach me: matthias.peter.kh@gmail.com
 
